@@ -18,10 +18,10 @@
 
 ## 本 demo 核心
 
-1. 如果 loader 执行异步操作,如何把异步结果返回出去?
-
-    使用this.callback(err, value)
+1. 如何使用外部 npm 库?
 
 2. 如何写 loader 的参数? 以及如何在 loader 获取参数
+
+3. loader 的返回值
 
 
