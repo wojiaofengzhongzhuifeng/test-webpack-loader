@@ -1,0 +1,1 @@
+(()=>{"use strict";let i=document.createElement("div");i.innerHTML='<h2 id="about">about</h2> <ul> <li><p>语文</p> </li> <li><p>数学</p> </li> <li><p>英语</p> </li> </ul> ',document.body.appendChild(i)})();
